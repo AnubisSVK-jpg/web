@@ -1,6 +1,6 @@
 #názov strany
 nazov_strany: AnubisSVK
-urlstranky: https://anubissvk.fun/
+urlstranky: https://anubissvk.fun
 
 sass:
   style: :compressed # You might prefer to minify using :compressed
