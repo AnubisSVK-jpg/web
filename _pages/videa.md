@@ -4,7 +4,7 @@ title: Videa
 include_in_header: true
 ---
 <br>
-<h1><strong>Moje videá</strong></h1>
+<h1><strong><i class="fa-solid fa-video"></i> Moje videá</strong></h1>
 <br>
 
 ### `Tutoriály`
