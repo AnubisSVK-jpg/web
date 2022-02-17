@@ -8,7 +8,7 @@ include_in_header: true
 <br>
 
 ### `Tutoriály`
-# **Ako stiahnuť a nainštalovať Photoshop CS6 + Čeština **
+# **Ako stiahnuť a nainštalovať Photoshop CS6 + Čeština**
 
 {% include youtubePlayer.html id="mnU8TPUxxHA" %}
 Dnes si ukážeme ako stiahnuť adobe photoshop CS6
