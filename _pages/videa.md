@@ -18,6 +18,5 @@ include_in_header: true
 # **Ako stiahnuť a nainštalovať Photoshop CS6 + Čeština**
 {% include youtubePlayer.html id="mnU8TPUxxHA" %}
 
-<br>
 <hr>
 <br>
