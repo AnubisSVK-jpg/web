@@ -11,7 +11,6 @@ include_in_header: true
 # **Ako stiahnuť a nainštalovať Sony Vegas Pro 18**
 {% include youtubePlayer.html id="oHaGQVChYL4" %}
 
-<br>
 <hr>
 <br>
 
