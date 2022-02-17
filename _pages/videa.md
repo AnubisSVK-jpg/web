@@ -8,6 +8,13 @@ include_in_header: true
 <br>
 
 ### `Tutoriály`
+# **Ako stiahnuť a nainštalovať Sony Vegas Pro 18**
+{% include youtubePlayer.html id="mnU8TPUxxHA" %}
+
+<br>
+________
+<br>
+
 # **Ako stiahnuť a nainštalovať Photoshop CS6 + Čeština**
 {% include youtubePlayer.html id="mnU8TPUxxHA" %}
 
