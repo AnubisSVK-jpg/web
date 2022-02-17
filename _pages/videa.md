@@ -8,6 +8,12 @@ include_in_header: true
 <br>
 
 ### `Tutoriály`
+# **Ako stiahnúť a nainštalovať MAFIA 1 ZADARMO 2021**
+{% include youtubePlayer.html id="vfGjOJEKc6o" %}
+
+<hr>
+<br>
+
 # **Ako stiahnuť a nainštalovať Sony Vegas Pro 18**
 {% include youtubePlayer.html id="oHaGQVChYL4" %}
 
