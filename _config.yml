@@ -1,5 +1,5 @@
 #názov strany
-nazov_strany: 
+nazov_strany: AnubisSVK
 
 sass:
   style: :compressed # You might prefer to minify using :compressed
