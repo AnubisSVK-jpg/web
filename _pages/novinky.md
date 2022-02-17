@@ -1,5 +1,5 @@
 ---
-layout: domov
+layout: strana
 title: Novinky
 include_in_header: true
 ---
