@@ -1,6 +1,6 @@
 ---
 layout: strana
-title: Changelog
+title: Videa
 include_in_header: true
 ---
 
