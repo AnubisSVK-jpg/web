@@ -7,6 +7,9 @@ popis_webu: Web developer | Java Developer | Youtuber
 #url webadresu
 urlstranky: 
 
+#Logo
+aplikacia_logo: aplikacia/obrazky/logo.jpg
+
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
