@@ -27,3 +27,7 @@ Dnes si ukážeme ako stiahnuť adobe photoshop CS6
 》MarkoTV 2018
 
 {% include youtubePlayer.html id="mnU8TPUxxHA" %}
+
+<br>
+
+________
