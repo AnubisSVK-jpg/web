@@ -12,12 +12,12 @@ include_in_header: true
 {% include youtubePlayer.html id="mnU8TPUxxHA" %}
 
 <br>
-___
+<hr>
 <br>
 
 # **Ako stiahnuť a nainštalovať Photoshop CS6 + Čeština**
 {% include youtubePlayer.html id="mnU8TPUxxHA" %}
 
 <br>
-___
+<hr>
 <br>
