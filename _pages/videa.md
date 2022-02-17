@@ -8,6 +8,13 @@ include_in_header: true
 <br>
 
 ### `Tutoriály`
+# **Ako urobiť MINECRAFT SERVER "ZADARMO" 2021**
+{% include youtubePlayer.html id="npTIIiHPGk8" %}
+
+<hr>
+<br>
+
+
 # **Ako stiahnúť a nainštalovať MAFIA 1 ZADARMO 2021**
 {% include youtubePlayer.html id="vfGjOJEKc6o" %}
 
