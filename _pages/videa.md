@@ -9,6 +9,8 @@ include_in_header: true
 
 ### `Tutoriály`
 # **Ako stiahnuť a nainštalovať Photoshop CS6 + Čeština | MarkoTV**
+
+{% include youtubePlayer.html id="mnU8TPUxxHA" %}
 Dnes si ukážeme ako stiahnuť adobe photoshop CS6
 
 》Link: https://uloz.to/!S63zw1lnds2b/photosh...
@@ -26,7 +28,6 @@ Dnes si ukážeme ako stiahnuť adobe photoshop CS6
 
 》MarkoTV 2018
 
-{% include youtubePlayer.html id="mnU8TPUxxHA" %}
 
 <br>
 
