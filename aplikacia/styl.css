@@ -85,7 +85,7 @@ body {margin:0;font-family:Arial}
 .dropdown:hover .dropdown-content {
     display: block;
 }
-  
+
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child), .dropdown .dropbtn {
       display: none;
